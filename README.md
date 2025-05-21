@@ -11,3 +11,7 @@ São servidores que funcionam como ponte entre servidores
 
 ## Versões Prévias 
 Alguns serviços são disponibilizados como versão prévia, não possuindo Acordo de Nível de Serviço, podendo então a qualquer momento serem desabilitados, então é preciso lembrar disso caso pense em criar uma aplicação baseada em algum desses serviços.
+
+# Documentação
+## Instancia Gerenciada SQL
+https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal
