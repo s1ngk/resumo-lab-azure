@@ -15,3 +15,7 @@ Alguns serviços são disponibilizados como versão prévia, não possuindo Acor
 # Documentação
 ## Instancia Gerenciada SQL
 https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal
+
+# Links
+## Overview Azure Global
+https://datacenters.microsoft.com/globe/explore/
