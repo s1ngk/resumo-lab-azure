@@ -16,6 +16,12 @@ Alguns serviços são disponibilizados como versão prévia, não possuindo Acor
 ## Instancia Gerenciada SQL
 https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal
 
+## AI - Transcrição de Texto e Voz
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
+
+## AI - Análise de Sentimentos
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
+
 # Links
 ## Overview Azure Global
 https://datacenters.microsoft.com/globe/explore/
