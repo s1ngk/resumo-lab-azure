@@ -29,6 +29,13 @@
 >
 >## Busca Cognitiva
 >https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html
+>## IA Generativa
+>https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html
+>
+>https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html
+>
+>https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html
+
 
 # Links
 >## Overview Azure Global
